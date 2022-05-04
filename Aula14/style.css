@@ -1,0 +1,24 @@
+@font-face {
+  font-family: Montserrat;
+  src: url("assets/Montserrat.ttf");
+}
+
+body {
+  text-align: center;
+  align-items: center;
+  font-family: Montserrat;
+}
+#im1 {
+  width: 100%;
+}
+
+#corpo {
+  padding: 0px 50px;
+}
+
+#txtprincipal {
+  font-size: 10px;
+}
+.verde {
+  color: #11c76f;
+}
